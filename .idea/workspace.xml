@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2f5af9b-3eed-47f3-ae77-f5926c8c9b97" name="Default Changelist" comment="added to git">
-      <change afterPath="$PROJECT_DIR$/KnightProbabilityInChesboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayAndStrings/GameOfLife.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayAndStrings/SetMatrixZeroes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AspectCapital" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ArrayAndStrings" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -56,7 +57,12 @@
     </option>
     <option name="myUseExistingConsole" value="true" />
   </component>
-  <component name="RunManager" selected="Python.KnightProbabilityInChesboard">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\LeetCode\ArrayAndStrings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SetMatrixZeroes">
     <configuration name="KnightDialer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +151,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SetMatrixZeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayAndStrings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayAndStrings/SetMatrixZeroes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,6 +197,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SetMatrixZeroes" />
         <item itemvalue="Python.KnightProbabilityInChesboard" />
         <item itemvalue="Python.KnightDialer" />
         <item itemvalue="Python.MinimumKnightMoves" />
@@ -189,7 +218,7 @@
       <workItem from="1635516682817" duration="475000" />
       <workItem from="1635517180131" duration="686000" />
       <workItem from="1635518202450" duration="115000" />
-      <workItem from="1635518335721" duration="25620000" />
+      <workItem from="1635518335721" duration="35877000" />
     </task>
     <task id="LOCAL-00001" summary="added to git">
       <created>1628270582700</created>
@@ -240,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635552020278</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added to git">
+      <created>1635559445821</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635559445821</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,6 +401,11 @@
           <line>54</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArrayAndStrings/SetMatrixZeroes.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -377,7 +418,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$OddEvenLinkedList.coverage" NAME="OddEvenLinkedList Coverage Results" MODIFIED="1635521404017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$KnightProbabilityInChesboard.coverage" NAME="KnightProbabilityInChesboard Coverage Results" MODIFIED="1635559336152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$SetMatrixZeroes.coverage" NAME="SetMatrixZeroes Coverage Results" MODIFIED="1635599584396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndStrings" />
+    <SUITE FILE_PATH="coverage/LeetCode$KnightProbabilityInChesboard.coverage" NAME="KnightProbabilityInChesboard Coverage Results" MODIFIED="1635559374160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$KnightDialer.coverage" NAME="KnightDialer Coverage Results" MODIFIED="1635548402176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$MinimumKnightMoves.coverage" NAME="MinimumKnightMoves Coverage Results" MODIFIED="1635535608970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
