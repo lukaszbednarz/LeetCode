@@ -61,8 +61,10 @@ class Solution:
             count = 0
 
             for nb in _NEIGHBOURS_:
-                if count < 4 & isAlive(i + nb[0], j + nb[1]):
+                if isAlive(i + nb[0], j + nb[1]):
                     count += 1
+                if count == 4:
+                    break
 
             alive = isAlive(i, j)
 
@@ -85,7 +87,7 @@ class Solution:
 
         while q:
             i, j, state = q.popleft()
-            board[i, j] = state
+            board[i][j] = state
 
 
 if __name__ == '__main__':
@@ -96,6 +98,6 @@ if __name__ == '__main__':
              [1, 1, 1],
              [0, 0, 0]]
 
-    sol.setZeroes(board)
+    sol.gameOfLife(board)
 
     print(board)

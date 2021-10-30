@@ -1,5 +1,5 @@
 # Definition for singly-linked list.
-from ReverseLinkedList import ListNode
+from LinkedLists.ReverseLinkedList import ListNode
 
 def mergeTwoLists(l1: ListNode, l2: ListNode) -> ListNode:
 
