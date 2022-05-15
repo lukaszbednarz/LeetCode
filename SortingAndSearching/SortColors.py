@@ -20,23 +20,26 @@ class Solution:
 
         front = 0
         back = n - 1
+        i = front
 
-        while (front < back) & (i <= back) :
+        while front < back and i <= back:
 
-            # put zero at the front
-            if (nums[fr] == 2) & (back != i):
+            if (nums[i] == 2) & (back != i):
                 self.swap(nums, i, back)
                 back -= 1
 
-            if (nums[i] == 0) & (front != i):
-                self.swap(nums, i, front)
+            if nums[i] == 0 and i != front:
+                self.swap(nums, front, i)
                 front += 1
+
+            # put zero at the front
+            if (nums[front] == 2) & (back != front):
+                self.swap(nums, front, back)
+                back -= 1
 
             if nums[back] == 0 and back != front:
                 self.swap(nums, front, back)
                 front += 1
-
-
 
             while front < back and nums[front] == 0:
                 front += 1
@@ -47,6 +50,7 @@ class Solution:
             i += 1
             while i < front:
                 i += 1
+
 
 
 

@@ -35,11 +35,12 @@ def initBST(vals):
             node_queue.put(left)
         current.left = left
 
-        right = queue.get()
-        if right is not None:
-            right = TreeNode(right)
-            node_queue.put(right)
-        current.right = right
+        if not queue.empty():
+            right = queue.get()
+            if right is not None:
+                right = TreeNode(right)
+                node_queue.put(right)
+            current.right = right
 
     return root
 

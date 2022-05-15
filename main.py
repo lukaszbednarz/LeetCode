@@ -1,15 +1,19 @@
-from SortingAndSearching.SortColors import Solution
+from TreesAndGraphs.KthSmallest import Solution
 
 
 # Press the green button in the gutter to run the script.
+from TreesAndGraphs.ValidateBST import initBST
+
 if __name__ == '__main__':
 
-    nums = [2,1,2]
+    nodes = [5,3,6,2,4,None,None,1]
+
+    root = initBST(nodes)
 
     sol = Solution()
 
-    sol.sortColors(nums)
+    ans = sol.kthSmallest(root, 3)
 
-    print(nums)
+    print(ans)
 
 
