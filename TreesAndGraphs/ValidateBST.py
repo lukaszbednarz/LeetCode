@@ -7,6 +7,13 @@ class TreeNode:
         self.left = left
         self.right = right
 
+class Node:
+    def __init__(self, next: 'Node' = None, *args, **kwargs):
+
+        super().__init__(*args, **kwargs)
+
+        self.next = next
+
 
 def initBST(vals):
 

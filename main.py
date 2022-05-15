@@ -1,8 +1,15 @@
-from ArrayAndStrings import ValidParentheses as vp
+from SortingAndSearching.SortColors import Solution
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    input = "([)]"
-    print(vp.isValid(input))
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    nums = [2,1,2]
+
+    sol = Solution()
+
+    sol.sortColors(nums)
+
+    print(nums)
+
+
