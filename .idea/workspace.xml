@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2f5af9b-3eed-47f3-ae77-f5926c8c9b97" name="Default Changelist" comment="added to git">
-      <change afterPath="$PROJECT_DIR$/TreesAndGraphs/KthSmallest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/GenerateParentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/WordSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/EvaluateReversePolishNotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/SumOfTwoIntegers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingAndSearching/KthLargestElementInAnArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreesAndGraphs/NumberOfIslands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAndSearching/SortColors.py" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAndSearching/SortColors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreesAndGraphs/ValidateBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TreesAndGraphs/ValidateBST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreesAndGraphs/PopulatingNextRightPointersInEachNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/TreesAndGraphs/PopulatingNextRightPointersInEachNode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +55,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRankWarmUp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -74,8 +80,8 @@
       <recent name="D:\Development\LeetCode\Math" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="BinaryTreeInorderTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SumOfTwoIntegers">
+    <configuration name="GenerateParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,12 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TreesAndGraphs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TreesAndGraphs/BinaryTreeInorderTraversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/GenerateParentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CoinChange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="KthLargestElementInAnArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingAndSearching" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/CoinChange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAndSearching/KthLargestElementInAnArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KnightDialer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,12 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/KnightDialer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/Subsets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LongestIncreasingSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfTwoIntegers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/LongestIncreasingSubsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Others/SumOfTwoIntegers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LongestPalindromicSubsequenceII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="WordSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,12 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayAndStrings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayAndStrings/LongestPalindromicSubsequenceII.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/WordSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KnightDialer" />
-        <item itemvalue="Python.LongestPalindromicSubsequenceII" />
-        <item itemvalue="Python.BinaryTreeInorderTraversal" />
-        <item itemvalue="Python.LongestIncreasingSubsequence" />
-        <item itemvalue="Python.CoinChange" />
+        <item itemvalue="Python.SumOfTwoIntegers" />
+        <item itemvalue="Python.KthLargestElementInAnArray" />
+        <item itemvalue="Python.WordSearch" />
+        <item itemvalue="Python.Subsets" />
+        <item itemvalue="Python.GenerateParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652648834984</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added to git">
+      <created>1652657036582</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652657036582</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,12 +548,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/TreesAndGraphs/PopulatingNextRightPointersInEachNode.py</url>
-          <line>50</line>
+          <line>49</line>
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/TreesAndGraphs/PopulatingNextRightPointersInEachNode.py</url>
-          <line>47</line>
+          <line>46</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -567,6 +575,51 @@
           <url>file://$PROJECT_DIR$/TreesAndGraphs/KthSmallest.py</url>
           <line>31</line>
           <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TreesAndGraphs/NumberOfIslands.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TreesAndGraphs/NumberOfIslands.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Backtracking/GenerateParentheses.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Backtracking/GenerateParentheses.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Backtracking/GenerateParentheses.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Backtracking/WordSearch.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Backtracking/WordSearch.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SortingAndSearching/KthLargestElementInAnArray.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Others/SumOfTwoIntegers.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="205" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

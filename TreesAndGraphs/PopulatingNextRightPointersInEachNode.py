@@ -24,7 +24,6 @@ class Solution:
 
             dq_len = len(dq)
 
-
             prev = None
 
             for i in range(dq_len):
